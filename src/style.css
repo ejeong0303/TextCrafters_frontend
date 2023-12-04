@@ -1,0 +1,20 @@
+.rmsc {
+    --rmsc-main: #4285f4;
+    --rmsc-hover: #f1f3f5;
+    --rmsc-selected: #e2e6ea;
+
+    --rmsc-gray: #aaa;
+    --rmsc-bg: #fff;
+    --rmsc-p: 10px;
+    --rmsc-radius: 15px;
+    --rmsc-h: 35px;
+  
+    width:100%;
+    color: #666;
+    margin-top: 2px;
+    font-size: 15px;
+}
+
+.multi-select{
+--rmsc-height: 40px !important; /* Height */ 
+}
